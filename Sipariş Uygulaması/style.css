@@ -1,0 +1,11 @@
+
+#eror{
+  background-color: red;
+  border-radius: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+#conteiner{
+  width: auto;
+}
